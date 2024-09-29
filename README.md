@@ -2,7 +2,7 @@
 
 I just finished developing my first web app RespawnRecord! (https://respawnrecordv2-frontend.onrender.com/)
 
-(It may take a while to load because I can only afford free hosting 😔
+(It may take a while to load because I can only afford free hosting 😔)
 
 It's a web app similar to Letterboxxed but for tracking games you, and others have played.
 
