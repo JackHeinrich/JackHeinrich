@@ -2,12 +2,11 @@
 
 ### [Sonetic](https://github.com/JackHeinrich/Sonetic)
 
+A Touch Designer component that tracks your hand through video and lets you play an instrument with nothing but your hand.
+
 ## Audio Required
 
 https://github.com/user-attachments/assets/3a4664f4-1766-45a5-97ea-26b1d4d8da4f
-
-
-A Touch Designer component that tracks your hand through video and lets you play an instrument with nothing but your hand.
 
 ### [Respawn Record - API](https://github.com/JackHeinrich/RespawnRecordV2_API)
 The backend API for Respawn Record, a game tracking and social platform.
