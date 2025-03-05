@@ -1,13 +1,18 @@
-## Hi there 👋
+## My Projects
 
-I just finished developing my first web app RespawnRecord! (https://respawnrecordv2-frontend.onrender.com/)
+### [Sonetic](https://github.com/JackHeinrich/Sonetic)
 
-(It may take a while to load because I can only afford free hosting 😔)
 
-It's a web app similar to Letterboxxed but for tracking games you, and others have played.
+https://github.com/user-attachments/assets/3a4664f4-1766-45a5-97ea-26b1d4d8da4f
 
-It uses Next.js and React frameworks for the frontend and the backend is an Express API.
 
-I use Auth0's user metadata as a sort of database and get all the game data from the IGDB API.
+A Touch Designer component that tracks your hand through video and lets you play an instrument with nothing but your hand.
 
-I hope you like it :D
+### [Respawn Record - API](https://github.com/JackHeinrich/RespawnRecordV2_API)
+The backend API for Respawn Record, a game tracking and social platform.
+
+### [Respawn Record - Frontend](https://github.com/JackHeinrich/RespawnRecordV2_FrontEnd)
+The frontend of Respawn Record, where users can interact with their favorited games and followers.
+
+### [Respawn Record](https://respawnrecordv2-frontend.onrender.com/)
+My web app where you can log the games you have played, follow your friends, and see what they've played as well.
