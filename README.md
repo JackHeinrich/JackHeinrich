@@ -2,6 +2,7 @@
 
 ### [Sonetic](https://github.com/JackHeinrich/Sonetic)
 
+## Audio Required
 
 https://github.com/user-attachments/assets/3a4664f4-1766-45a5-97ea-26b1d4d8da4f
 
